@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[248],{5201:function(n,e,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/licenses",function(){return u(5733)}])},5733:function(n,e,u){"use strict";u.r(e);var s=u(5893),_=u(2881);let t=()=>(0,s.jsx)(_.Licenses,{});e.default=t}},function(n){n.O(0,[764,667,774,888,179],function(){return n(n.s=5201)}),_N_E=n.O()}]);
